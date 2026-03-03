@@ -1,12 +1,3 @@
-# CS 5330 Assignment 3: Real-time 2D Object Recognition
-
-**Student:** Rohil Kulshreshtha  
-**Course:** CS 5330 - Pattern Recognition & Computer Vision  
-**Semester:** Spring 2026  
-**Submission Date:** February 22, 2026
-
----
-
 ## Project Overview
 
 This project implements a complete real-time 2D object recognition system with two classification approaches:
