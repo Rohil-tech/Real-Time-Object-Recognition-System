@@ -4,7 +4,7 @@
 # CMake Build file
 
 cmake_minimum_required(VERSION 3.15)
-project(Assignment2)
+project(Assignment3)
 
 set(CMAKE_CXX_STANDARD 17)
 
